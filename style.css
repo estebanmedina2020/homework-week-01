@@ -1,6 +1,6 @@
 body {
 		       font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
-		         margin-left: 0px;
+		       margin-left: 0px;
 	           margin-top: 0px;
 	           margin-right: 0px;
 	           margin-bottom: 0px;
@@ -50,6 +50,7 @@ body {
 }
             .content-footer {
                font-size: 10pt;
+               text-align: center;
                line-height: 11pt;
 }
             .egypt-headline {
